@@ -1,0 +1,9 @@
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\bin\Debug\netstandard2.0\TutorialListView.deps.json
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\bin\Debug\netstandard2.0\TutorialListView.dll
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\bin\Debug\netstandard2.0\TutorialListView.pdb
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\obj\Debug\netstandard2.0\TutorialListView.csprojAssemblyReference.cache
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\obj\Debug\netstandard2.0\TutorialListView.csproj.CoreCompileInputs.cache
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\obj\Debug\netstandard2.0\TutorialListView.AssemblyInfoInputs.cache
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\obj\Debug\netstandard2.0\TutorialListView.AssemblyInfo.cs
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\obj\Debug\netstandard2.0\TutorialListView.dll
+D:\Xamarin5\TutorialListView\TutorialListView\TutorialListView\obj\Debug\netstandard2.0\TutorialListView.pdb
